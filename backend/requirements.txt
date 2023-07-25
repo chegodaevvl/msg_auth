@@ -1,0 +1,17 @@
+# app
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+pydantic[dotenv]
+python-multipart
+PyJWT
+pydantic-extra-types
+pydantic[email]
+phonenumbers
+
+# db
+SQLAlchemy
+alembic
+asyncpg
+psycopg2
